@@ -1,0 +1,15 @@
+{
+  "name": "ichat",
+  "version": "1.0.0",
+  "description": "This is ichat appilcation for our servers",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogit",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
